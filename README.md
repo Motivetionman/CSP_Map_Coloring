@@ -2,8 +2,6 @@
 
 โปรเจกต์นี้แก้ปัญหา **การระบายสีแผนที่ (Map Coloring)** ด้วยแนวคิด **Constraint Satisfaction Problem (CSP)** ตามสไลด์การเรียนรู้ โดยใช้แผนที่ประเทศออสเตรเลียเป็นโจทย์ตัวอย่าง
 
-> 📄 **เอกสารรายงานฉบับเต็มในรูปแบบ PDF:** [ดาวน์โหลดหรือเปิดดูได้ที่นี่ (CSP_Map_Coloring_Report.pdf)](CSP_Map_Coloring_Report.pdf)
-
 ---
 
 ## 1. โจทย์ปัญหาการระบายสีแผนที่ (Problem Formulation)

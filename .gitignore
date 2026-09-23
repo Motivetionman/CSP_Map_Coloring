@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
-
+*.pdf
+australia_map_graph.png
+generate_csp_pdf.py
