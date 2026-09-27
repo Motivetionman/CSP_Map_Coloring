@@ -3,3 +3,4 @@ __pycache__/
 *.pdf
 australia_map_graph.png
 generate_csp_pdf.py
+test_*.py
